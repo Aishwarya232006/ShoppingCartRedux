@@ -4,7 +4,7 @@
 * The store combines all slices (reducers) into a single state tree
 */
 import { configureStore } from '@reduxjs/toolkit';
-import productsReducer from '.\productsSlice.js';
+import productsReducer from '../productsSlice.js';
 import cartReducer from './cartSlice';
 // Configure the Redux store with our reducers
 export const store = configureStore({
