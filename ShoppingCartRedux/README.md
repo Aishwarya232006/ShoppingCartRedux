@@ -1,4 +1,4 @@
-Repository URL: https://github.com/Aishwarya232006/ShoppingCartRedux
+Repository URL: https://github.com/Aishwarya232006/ShoppingCartRedux/tree/main/ShoppingCartRedux
 Student Name: Aishwarya 
 Student ID:  (add your ID here)
 Lab: CPAN 213 - Lab 7
